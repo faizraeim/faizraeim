@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Faiz Rahim [Faizey][website] 👋
+### Hi there, I'm Faiz Rahim [.][website] 👋
 
 [![Website](https://img.shields.io/website?label=Faizey&style=for-the-badge&url=https%3A%2F%2FFaizey.com)](https://github.com/iFaizey)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iFaizey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiFaizey&screen_name=iFaizey)
@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -44,22 +44,20 @@
 <br />
 <br />
 
-</details>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="faizey's GitHub Stats" src="https://github-readme-stats.iFaizey.vercel.app/api?username=iFaizey&show_icons=true&hide_border=true" />
+  <img align="left" alt="faizey's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iFaizey&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://github.com/iFaizey
 [university]: https://www.siu.edu.in/
 [twitter]: https://twitter.com/iFaizey
-[youtube]: https://youtube.com/
+[facebook]: https://facebook.com/iFaizey
 [instagram]: https://instagram.com/faiz.ey
 [linkedin]: https://linkedin.com/in/faizey
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+[webdevplaylist]: .
+[jsplaylist]: .
+[cssplaylist]: .
+[reactplaylist]: . 
