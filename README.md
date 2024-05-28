@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to to get help from everyone 
 - 💬 Ask me about anything you would love to know
-- 🥅 2020 Goals: Make it to 2021!
+- 🥅 2024 Goals: Learn to code more!
 - ⚡ Fun fact: I love Music & Photography [Instagram!][instagram]
 
 ### Connect with me:
