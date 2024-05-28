@@ -1,7 +1,7 @@
 ### Hi there, I'm Faiz Rahim [.][website] 👋
 
-[![Website](https://img.shields.io/website?label=Faizey&style=for-the-badge&url=https%3A%2F%2FFaizey.com)](https://github.com/iFaizey)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iFaizey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiFaizey&screen_name=iFaizey)
+[![Website](https://img.shields.io/website?label=faizraeim&style=for-the-badge&url=https%3A%2F%2Ffaizraeim.com)](https://github.com/faizraeim)
+[![Twitter Follow](https://img.shields.io/twitter/follow/faizraeim?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiFaizey&screen_name=faizraeim)
 
 ## a Code for a Change !!
 
@@ -47,15 +47,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="faizey's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iFaizey&show_icons=true&hide_border=true" />
+  <img align="left" alt="faizey's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faizraeim&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://github.com/iFaizey
+[website]: https://github.com/faizraeim
 [university]: https://www.siu.edu.in/
-[twitter]: https://twitter.com/iFaizey
-[facebook]: https://facebook.com/iFaizey
-[instagram]: https://instagram.com/faiz.ey
+[twitter]: https://twitter.com/faizraeim
+[facebook]: https://facebook.com/faizraeim
+[instagram]: https://instagram.com/faizraeim
 [linkedin]: https://linkedin.com/in/faizey
 [webdevplaylist]: .
 [jsplaylist]: .
